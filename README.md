@@ -1,4 +1,4 @@
-wwww.patika.dev
+www.patika.dev
 
 Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
